@@ -6,6 +6,12 @@
 [![Total Downloads](https://poser.pugx.org/primitivesense/laravel-raw-sqs-connector/downloads)](https://packagist.org/packages/primitivesense/laravel-raw-sqs-connector)
 [![License](https://poser.pugx.org/primitivesense/laravel-raw-sqs-connector/license)](https://packagist.org/packages/primitivesense/laravel-raw-sqs-connector)
 
+## Forked for Laravel 7.0 support
+
+**NOT OFFICIAL**
+
+Just testing it
+
 ## About
 The purpose of this package is to allow you to consume raw messages produced outside of Laravel from AWS SQS to then be handled natively within Laravel's Queue and Job system. 
 
